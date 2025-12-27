@@ -1,0 +1,4 @@
+admin|PBKDF2|120000$eIx68f+ABDhAjnCQcuMOgA==$MvhaR8Uf3gUs1pq5pheuk0O88UZHaHra4HB3oR1zpP8=
+abc|BCRYPT|$2a$10$WCxy17AKBVRQRd.hXu9m6uyRpVUjosB5JmLolEeggBi8ljwXFyYGO
+baba|ARGON2|$argon2id$v=19$m=32768,t=3,p=1$/pyHhmMePRlGdDogYc+OTQ$b5T6nkRrud+aiT3zB3EsOFIffZjSysqm0/iZUsDC2CM
+deda|PBKDF2|120000$bTKQjOWsMRpcavPhRx2P5Q==$ZO3DQ1tsCK9mjUU9LPXfIC7Baz8qrwrK9VKiplNxLlc=
